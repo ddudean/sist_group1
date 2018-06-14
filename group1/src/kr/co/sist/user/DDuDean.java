@@ -6,6 +6,7 @@ public class DDuDean {
 		System.out.println("하이 헬로~~~~~");
 		System.out.println("하이 헬로입니다~~~~~");
 		System.out.println("세번쨰.....하이 헬로입니다~~~~~");
+		System.out.println("네번빼ㅐㅐㅐ.....하이 헬로입니다~~~~~");
 	}
 
 }
